@@ -1,4 +1,4 @@
-# seek-torrent 
+# seek-torrent [![Build Status](https://travis-ci.org/Eli-Goldberg/seek-torrent.svg?branch=master)](https://travis-ci.org/Eli-Goldberg/seek-torrent)
 
 Finds torrents (Movies / Series) accross multiple sources
 
@@ -32,7 +32,7 @@ var seekTorent = require('seek-torrent');
     ]
   */
 
-  let results = await seekTorrent.search('captain america winter soldier', { type: 'series' });
+  results = await seekTorrent.search('captain america winter soldier', { type: 'series' });
   
   /*
   [
