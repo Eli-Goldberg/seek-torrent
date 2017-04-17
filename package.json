@@ -1,6 +1,6 @@
 {
   "name": "seek-torrent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,20 @@
   "engines": {
     "node": ">= 7.6.0"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eli-Goldberg/seek-torrent.git"
+  },
+  "keywords": [
+    "torrent",
+    "search",
+    "seek",
+    "download",
+    "movie",
+    "series",
+    "tracker",
+    "tvshow"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
