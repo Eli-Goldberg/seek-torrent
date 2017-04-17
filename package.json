@@ -1,0 +1,26 @@
+{
+  "name": "seek-torrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**",
+    "pretest": "npm run eslint",
+    "eslint": "eslint run src/"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-torrent-name": "0.5.4",
+    "torrentflix": "9.0.0"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0",
+    "rewire": "2.5.2"
+  }
+}

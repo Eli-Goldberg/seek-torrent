@@ -1,0 +1,64 @@
+{
+  "torrent_sources": {
+    "kickass": {
+      "name": "Kickass",
+      "url": "https://kat.cr"
+    },
+    "limetorrents": {
+      "name": "LimeTorrents",
+      "url": "http://limetorrents.cc"
+    },
+    "extratorrent": {
+      "name": "ExtraTorrent",
+      "url": "http://extratorrent.cc"
+    },
+    "strike": {
+      "name": "GetStrike",
+      "url": "https://getstrike.net"
+    },
+    "yts": {
+      "name": "YTS",
+      "url": "https://yts.ag"
+    },
+    "tpb": {
+      "name": "The Pirate Bay",
+      "url": "https://thepiratebay.la"
+    },
+    "btdigg": {
+      "name": "BTDigg",
+      "url": "https://btdigg.org"
+    },
+    "seedpeer": {
+      "name": "Seedpeer",
+      "url": "http://seedpeer.eu"
+    },
+    "leetx": {
+      "name": "1337x",
+      "url": "https://1337x.to"
+    },
+    "nyaa": {
+      "name": "Nyaa",
+      "url": "http://www.nyaa.se"
+    },
+    "tokyotosho": {
+      "name": "Tokiotosho",
+      "url": "https://www.tokyotosho.info"
+    },
+    "cpasbien": {
+      "name": "Cpasbien",
+      "url": "http://www.cpasbien.io"
+    },
+    "eztv": {
+      "name": "Eztv",
+      "url": "https://www.eztv.ag"
+    },
+    "rarbg": {
+      "name": "Rarbg",
+      "url": "https://torrentapi.org"
+    },
+    "torrentproject": {
+      "name": "TorrentProject",
+      "url": "https://www.torrentproject.se"
+    }
+  }
+}
