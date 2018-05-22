@@ -10,7 +10,7 @@ $ npm install seek-torrent
 
 ## Usage:
 ```javascript
-var seekTorent = require('seek-torrent');
+var seekTorrent = require('seek-torrent');
 
 (async function () {
   let results = await seekTorrent.search('stating alive s05e02', { type: 'series' });
